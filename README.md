@@ -2,7 +2,7 @@
 
 This project helps learners enter study information to test memorizing.
 
-###Installation
+### Installation
 
 1. Fork/Clone
 2. npm i
