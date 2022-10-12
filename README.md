@@ -3,8 +3,8 @@
 This project helps learners enter study information to test memorizing.
 
 - Project is only built for Frontend applied React, HTML, Bootstrap, JSON, and Jasmine.
-
 - All input datas will be saved in JSON server and lost if app is reset.
+- Hit me up if you want to build an API for this app.
 
 ### Installation
 
